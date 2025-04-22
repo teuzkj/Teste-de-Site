@@ -6,7 +6,12 @@ h1 {
     text-align: center;
     font-size: 100;
     font-family: fantasy;
+    border: 2px solid #000000;
+    background-color: #cecbcb;
 }
 img {
     border: 2px solid #000000;
+}
+h2 {
+    color: rgb(66, 66, 70);
 }
