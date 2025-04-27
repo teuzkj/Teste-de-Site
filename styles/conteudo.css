@@ -10,3 +10,10 @@ h1 {
     border: 2px solid #000000;
     background-color: rgb(179, 179, 179);
 }
+h2 {
+    color: rgb(66, 66, 70);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    border: 2px solid #000000;
+}
