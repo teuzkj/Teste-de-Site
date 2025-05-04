@@ -3,6 +3,31 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
+.container-flex {
+    display: flex;
+    gap: 20px;
+}
+.retangulo {
+    width: 1200px;
+    height: auto;
+    padding: 20px;
+    border: 2px solid #000000;
+    background-color: #f0f0f0;
+    margin: 2px;
+    border-radius: 8px;
+}
+.retangulo-2 {
+    width: 600px;
+    height: auto;
+    padding: 20px;
+    border: 2px solid #000000;
+    background-color: #f0f0f0;
+    margin: 2px;
+    border-radius: 8px;
+}
+.texto-centralizado {
+    text-align: center;
+}
 h1 {
     color: rgb(4, 4, 83);
     text-align: center;
@@ -15,6 +40,7 @@ img {
     border: 2px solid #000000;
 }
 h2 {
+    font-size: largerw;
     color: rgb(66, 66, 70);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
