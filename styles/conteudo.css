@@ -16,6 +16,15 @@ body {
     margin: 2px;
     border-radius: 8px;
 }
+.retangulo-interno {
+    width: 1150px;
+    height: 60px;
+    padding: 20px;
+    border: 2px solid #000000;
+    background-color: #e4e3e3;
+    margin: 2px;
+    border-radius: 8px;
+}
 .retangulo-2 {
     width: 600px;
     height: auto;
@@ -25,7 +34,9 @@ body {
     margin: 2px;
     border-radius: 8px;
 }
-
+.texto-centralizado {
+    text-align: center;
+}
 h1 {
     color: rgb(0, 0, 116);
     text-align: center;
@@ -36,7 +47,7 @@ h1 {
 }
 h2 {
     color: rgb(66, 66, 70);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: fantasy;
 }
 img {
     border: 2px solid #000000;
